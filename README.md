@@ -1,4 +1,4 @@
-# Trabajo Práctico 3
+# Prog 2 - Recursion
 
 Dado la siguiente consigna, implementar las siguientes funciones TODAS USANDO RECURSIVIDAD (Eso significa, sin usar for o while):
 
